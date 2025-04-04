@@ -81,6 +81,8 @@ footer {
     text-align: center; /* Centra el texto dentro del footer */
     padding: 10px 0;
     border: 5px solid black;
+    border-radius: 20px;
+    margin: 20px;
 }
 
 footer h2 {
